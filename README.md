@@ -1,2 +1,2 @@
 # capibara
-Capibara SSM is a newopen-source fundation model
+Capibara SSM is a new open-source fundation model
