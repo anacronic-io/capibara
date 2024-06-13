@@ -16,7 +16,7 @@ cd ssm-capibara
 Create a `requirements.txt` file with all necessary dependencies.
 
 ```python
-	tensorflow
+tensorflow
 jax
 jaxlib
 numpy
