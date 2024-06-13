@@ -2,12 +2,7 @@
 
 Capibara SSM is a new open-source fundation model
 
-
 # Project Structure
-
-## Create a Repository on GitHub
-
-Create a new repository on GitHub for the SSM Capibara V.0.0.1 project.
 
 ## Clone the Repository Locally
 
@@ -21,9 +16,13 @@ cd ssm-capibara
 Create a `requirements.txt` file with all necessary dependencies.
 
 ```python
-tensorflow
+	tensorflow
 jax
 jaxlib
 numpy
 scipy
 ```
+
+## Install the dependencies.
+
+`pip install -r requirements.txt`
